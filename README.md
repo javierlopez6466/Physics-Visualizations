@@ -1,6 +1,6 @@
 # Physics-Visualizations
 
-Relaxation Methods Final: Applying iterative techniques on 2-d "spaces" to find approximate solutions to Laplace's eq. Potential function solutions plotted in contours and 3d plots. Several boundary conditions are given, including point charge, charged plates, faraday cage demo.
+$Relaxation Methods Final:$ Applying iterative techniques on 2-d "spaces" to find approximate solutions to Laplace's eq. Potential function solutions plotted in contours and 3d plots. Several boundary conditions are given, including point charge, charged plates, faraday cage demo.
 
 Harmonic Functions on a Disk: Extension of Relaxation Methods, but applied to a disk shape
 
